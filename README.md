@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+👋안녕하세요! 전지원입니다!👋 
+🌱BSSM 5기 / BSSM 5th🌱 
+Hello! My name is Jiwon!🇺🇸 
+дабро пожаловать!🇷🇺 
+こんにちは！　わたしの名前わJiwonです！🇯🇵
 <!--
 **J1w0n9/J1w0n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
