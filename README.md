@@ -1,6 +1,7 @@
 ## Hi there 👋
-
+<hr>
 👋안녕하세요! 전지원입니다!👋 
+<br>
 🌱BSSM 5기 / BSSM 5th🌱 
 Hello! My name is Jiwon!🇺🇸 
 дабро пожаловать!🇷🇺 
