@@ -8,7 +8,7 @@ Hello! My name is Jiwon!🇺🇸
 <br>
 дабро пожаловать!🇷🇺 
 <br>
-こんにちは！　わたしの名前わJiwonです！🇯🇵
+こんにちは！　わたしの名前はJiwonです！🇯🇵
 <hr>
 <!--
 **J1w0n9/J1w0n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
