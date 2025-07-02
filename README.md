@@ -1,6 +1,6 @@
 ## Hi there, I'm Jiwon 👋
 <hr>
-👋안녕하세요! 전지원입니다!👋 
+<h1>👋안녕하세요! 전지원입니다!👋</h1>
 <br>
 🌱BSSM 5기 / BSSM 5th🌱 
 <br>
