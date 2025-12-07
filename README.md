@@ -22,6 +22,6 @@ Hello! My name is Jiwon!🇺🇸
 
 <div align=center>
   <img src="https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-004993?style=for-the-badge&logo=Python&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-004993?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/React-00FBFF?style=for-the-badge&logo=React&logoColor=black">
 </div>
