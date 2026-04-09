@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 전지원입니다! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🌱BSSM 5기 / BSSM 5th🌱<br></li>Hello! My name is Jiwon!🇺🇸<br></li>дабро пожаловать!🇷🇺<br></li>こんにちは！　わたしの名前はJiwonです！🇯🇵<br></li>알고보니... ||디자이너?!|| </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🌱BSSM 5기 / BSSM 5th🌱<br></li>Hello! My name is Jiwon!🇺🇸<br></li>дабро пожаловать!🇷🇺<br></li>こんにちは！　わたしの名前はJiwonです！🇯🇵<br></li>알고보니... 디자이너?! </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
