@@ -30,7 +30,5 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j1w0n9)](https://solved.ac/j1w0n9/)
-        [![mazandi profile](http://mazandi.herokuapp.com/api?handle=j1w0n9&theme=warm)
     </div> 
     </div>
