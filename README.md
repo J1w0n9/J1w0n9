@@ -30,6 +30,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
     </div> 
+    <hr/>
         <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=J1w0n9&utm_content=farm">
             <img
               src="https://render.gitanimals.org/farms/J1w0n9"
